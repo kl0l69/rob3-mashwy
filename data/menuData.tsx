@@ -10,7 +10,7 @@ export const MENU_DATA: MenuCategory[] = [
     title: 'الأكثر طلباً',
     icon: <Star className="w-6 h-6 text-yellow-500 fill-yellow-500" />,
     items: [
-      { id: 'g1', name: 'فرخة مشوية', price: '120', description: 'فرخة كاملة متبلة بخلطة الأعشاب الخاصة ومشوية على الفحم.', image: '/images/grill/chicken-whole.jpg' },
+      { id: 'g1', name: 'فرخة مشوية', price: '120', description: 'فرخة كاملة متبلة بخلطة الأعشاب الخاصة ومشوية على الفحم.', image: 'images/grill/chicken-whole.jpg' },
       { id: 'g3', name: 'كفتة مشوية', price: '85 - 280', description: 'كفتة بلدي مشوية، متاحة بالوزن.', image: '/images/grill/kofta.jpg' },
       { id: 'g6', name: 'مشويات مشكلة', price: '145', description: 'ميكس جريل (كفتة، شيش، كباب).', image: '/images/grill/mix.jpg' },
     ]
