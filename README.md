@@ -96,4 +96,3 @@ Clicking "اطلب على واتساب" for any menu item opens WhatsApp with a 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="40" height="40" />
 </p>
-```
