@@ -40,8 +40,8 @@ export const MENU_DATA: MenuCategory[] = [
     title: 'الشوربة',
     icon: <Soup className="w-6 h-6" />,
     items: [
-      { id: 's1', name: 'شوربة لسان عصفور', price: '25', description: 'مرقة دجاج غنية.', image: '/images/soups/orzo.jpg' },
-      { id: 's2', name: 'شوربة كريمة فراخ', price: '45', description: 'كريمة غنية مع قطع الدجاج.', image: '/images/soups/cream-chicken.jpg' },
+      { id: 's1', name: 'شوربة لسان عصفور', price: '25', description: 'مرقة دجاج غنية.', image: '/images/soup/orzo.jpg' },
+      { id: 's2', name: 'شوربة كريمة فراخ', price: '45', description: 'كريمة غنية مع قطع الدجاج.', image: '/images/soup/cream-chicken.jpg' },
     ]
   },
   {
@@ -58,8 +58,8 @@ export const MENU_DATA: MenuCategory[] = [
     title: 'الحلويات',
     icon: <Cherry className="w-6 h-6" />,
     items: [
-      { id: 'd1', name: 'أرز باللبن', price: '30', description: 'بالفرن أو سادة.', image: '/images/desserts/rice-milk.jpg' },
-      { id: 'd2', name: 'أم علي', price: '45', description: 'بالمكسرات والقشطة.', image: '/images/desserts/om-ali.jpg' },
+      { id: 'd1', name: 'أرز باللبن', price: '30', description: 'بالفرن أو سادة.', image: '/images/dessert/rice-milk.jpg' },
+      { id: 'd2', name: 'أم علي', price: '45', description: 'بالمكسرات والقشطة.', image: '/images/dessert/om-ali.jpg' },
     ]
   },
   {
