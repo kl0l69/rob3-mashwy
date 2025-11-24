@@ -67,7 +67,7 @@ export const MENU_DATA: MenuCategory[] = [
     title: 'مشروبات ساخنة',
     icon: <Coffee className="w-6 h-6" />,
     items: [
-      { id: 'h1', name: 'شاي', price: '15', description: 'شاي مصري أصيل.', image: `${process.env.PUBLIC_URL}/images/drinks/tea.jpg` },
+      { id: 'h1', name: 'شاي', price: '15', description: 'شاي مصري أصيل.', image: `/images/drinks/tea.jpg` },
       { id: 'h2', name: 'قهوة تركي', price: '25', description: 'بن محوج.', image: `${process.env.PUBLIC_URL}/images/drinks/coffee.jpg` },
     ]
   },
