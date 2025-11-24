@@ -1,0 +1,7 @@
+{
+  "name": "Rob3 Mashwy (ربع مشوي)",
+  "description": "A responsive React restaurant menu with WhatsApp ordering functionality, tailored for an Egyptian grilled food brand.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
